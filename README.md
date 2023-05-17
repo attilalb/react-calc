@@ -1,6 +1,6 @@
 Calculator created in React with Typescript using Vite.
 
-This project is part of the [freecodecamp front end development libraries certification].
+This project is part of the [freecodecamp front end development libraries certification](https://www.freecodecamp.org/learn/front-end-development-libraries/#front-end-development-libraries-projects).
 
 ## Installation 🚀
 
